@@ -2,14 +2,15 @@ commmands
 ==========================================
 1. git config --global user.email "dhananjay0292@gmail.com"
 2. git config --global user.name "dhananjay4allprogramming"
-3. git remote => to check remote 
-4. git remote add variable_name url => to add remote url
+3. git config user.name =>to check configure user
+4. git remote => to check remote 
+5. git remote add variable_name url => to add remote url
 
-1. git init => initialize enpty git folde in current location that folder name is '.git' it is bydefault invisible it is responsible for controlling the version.
-2. git status => it will show the status of file
-3. git add file_name/. => it will stage the our changes 
-4. git rm --cached file_name => It will remove the stage file.
-5. git commit -m "message"
-6. git log or git log --oneline
-7. git checkout <some id>
-8. git pull <remote_name>
+6. git init => initialize enpty git folde in current location that folder name is '.git' it is bydefault invisible it is responsible for controlling the version.
+7. git status => it will show the status of file
+8. git add file_name/. => it will stage the our changes 
+9. git rm --cached file_name => It will remove the stage file.
+10. git commit -m "message"
+11. git log or git log --oneline
+12. git checkout <some id>
+13. git pull <remote_name>
